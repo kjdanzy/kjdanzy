@@ -1,6 +1,6 @@
 - Hi, I’m Kevin Danzy.
 - I’m expanding my abilities as a full-stack programmer.
-- I’be learned proper coding techniques via CodingDojo
+- I learned proper coding techniques via Coding Dojo
 - I’m looking to collaborate on projects and utilize the skills I've learned from the Dojo.
 
 
