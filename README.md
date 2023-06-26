@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kjdanzy
-- 👀 I’m interested in expanding my abilities into becoming a  full-stack programmer.
-- 🌱 I’m currently learning proper coding techniques via CodingDojo
-- 💞️ I’m looking to collaborate on the projects we're expected to do throughout the program and beyond.
+- Hi, I’m Kevin Danzy.
+- I’m expanding my abilities as a full-stack programmer.
+- I’be learned proper coding techniques via CodingDojo
+- I’m looking to collaborate on projects and utilize the skills I've learned from the Dojo.
 
 
 <!---
